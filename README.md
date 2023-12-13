@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -21,20 +21,15 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ![](./design/desktop-result.png)
 
-
 ### Links
 
-- Solution URL: [Github](https://github.com/timavidon/frontend-mentor-c9)
-- Live Site URL: [Live Site](https://timavidon.github.io/frontend-mentor-c9/)
+- Solution URL: [Github](https://github.com/timavidon/Profile-card-component)
+- Live Site URL: [Live Site](hhttps://timavidon.github.io/Profile-card-component/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS, Flexbox
+- CSS
 - Mobile-first workflow
-
-
-
-
